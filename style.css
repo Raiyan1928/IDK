@@ -1,0 +1,53 @@
+body{
+	color: lime;
+	background-image: url(black.jpg);
+}
+.Header1{
+	text-align: center;
+	color: blue;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.para{
+	margin-left: 20px;
+	margin-top: 55px;
+	font-size: 30px;
+}
+.d{
+	display: flex;
+}
+#di{
+	width: 170px;
+	height: 60px;
+	font-size: 65px;
+	text-align: right;
+	font-weight: 500;
+}
+.k{
+	margin-top: 10px;
+	width: 100px;
+	height:50px;
+	font-size: 20px;
+	border: none;
+	border-radius: 10px;
+
+}
+.Header2{
+	text-align: center;
+	color: #4efc03;
+}
+#di2{
+	width: 370px;
+	height: 40px;
+	font-size: 45px;
+	text-align: right;
+	font-weight: 500;
+	background: transparent	;
+	border-radius: 25px;
+
+}
+.but{
+	text-align: center;
+	width: 90px;
+	height: 30px;
+	border-radius: 20px;
+}
